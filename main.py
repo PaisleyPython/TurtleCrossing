@@ -1,12 +1,3 @@
-# STEPS - Breaking the project down.
-# DONE Move the turtle with key press
-# DONE Create and move the cars
-# DONE Create multiple cars
-# DONE Detect collision with car
-# DONE Detect when turtle reaches the other side
-# DONE Create a scoreboard
-# DONE Add difficulty level, (increased speed)
-
 import time
 from turtle import Screen
 from player import Player
